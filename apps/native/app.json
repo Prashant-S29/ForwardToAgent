@@ -1,0 +1,17 @@
+{
+	"expo": {
+		"scheme": "forwardToAgent",
+		"userInterfaceStyle": "automatic",
+		"orientation": "default",
+		"web": {
+			"bundler": "metro"
+		},
+		"name": "forwardToAgent",
+		"slug": "forwardToAgent",
+		"plugins": ["expo-font"],
+		"experiments": {
+			"typedRoutes": true,
+			"reactCompiler": true
+		}
+	}
+}
